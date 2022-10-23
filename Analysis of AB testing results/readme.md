@@ -15,30 +15,4 @@
 
 ## Схема анализа
 
-1. Загрузка данных
-
-2. Оценка корректности теста
-
-   2.1.  Проверка корректности ТЗ
-  
-   2.2.  Время проведения
-  
-   2.3.  Проверка аудитории теста
-   
-3.  Исследовательский анализ данных EDA
-
-    3.1.  Распределение количества событий на пользователя
-  
-    3.2.  Распределение числа событий по дням
-  
-    3.3.  Изменение конверсии в воронке
-  
-4.  Оценка результатов A/B тестирования
-
-    4.1.  Конверсия
-    
-    4.2.  Относительное изменение кумулятивной конверсии
-    
-    4.3.  Статистическая разница долей
-    
-5.  Общий вывод
+<div class="toc"><ul class="toc-item"><li><span><a href="#Техническое-задание-и-описание-данных" data-toc-modified-id="Техническое-задание-и-описание-данных-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Техническое задание и описание данных</a></span></li><li><span><a href="#Загрузка-данных" data-toc-modified-id="Загрузка-данных-2"><span class="toc-item-num">2&nbsp;&nbsp;</span>Загрузка данных</a></span></li><li><span><a href="#Оценка-корректности-теста" data-toc-modified-id="Оценка-корректности-теста-3"><span class="toc-item-num">3&nbsp;&nbsp;</span>Оценка корректности теста</a></span><ul class="toc-item"><li><span><a href="#Проверка-корректности-ТЗ" data-toc-modified-id="Проверка-корректности-ТЗ-3.1"><span class="toc-item-num">3.1&nbsp;&nbsp;</span>Проверка корректности ТЗ</a></span></li><li><span><a href="#Время-проведения" data-toc-modified-id="Время-проведения-3.2"><span class="toc-item-num">3.2&nbsp;&nbsp;</span>Время проведения</a></span></li><li><span><a href="#Проверка-аудитории-теста" data-toc-modified-id="Проверка-аудитории-теста-3.3"><span class="toc-item-num">3.3&nbsp;&nbsp;</span>Проверка аудитории теста</a></span></li></ul></li><li><span><a href="#Исследовательский-анализ-данных-EDA" data-toc-modified-id="Исследовательский-анализ-данных-EDA-4"><span class="toc-item-num">4&nbsp;&nbsp;</span>Исследовательский анализ данных EDA</a></span><ul class="toc-item"><li><span><a href="#Распределение-количества-событий-на-пользователя" data-toc-modified-id="Распределение-количества-событий-на-пользователя-4.1"><span class="toc-item-num">4.1&nbsp;&nbsp;</span>Распределение количества событий на пользователя</a></span></li><li><span><a href="#Распределение-числа-событий-по-дням" data-toc-modified-id="Распределение-числа-событий-по-дням-4.2"><span class="toc-item-num">4.2&nbsp;&nbsp;</span>Распределение числа событий по дням</a></span></li><li><span><a href="#Изменение-конверсии-в-воронке" data-toc-modified-id="Изменение-конверсии-в-воронке-4.3"><span class="toc-item-num">4.3&nbsp;&nbsp;</span>Изменение конверсии в воронке</a></span></li></ul></li><li><span><a href="#Оценка-результатов-A/B-тестирования" data-toc-modified-id="Оценка-результатов-A/B-тестирования-5"><span class="toc-item-num">5&nbsp;&nbsp;</span>Оценка результатов A/B тестирования</a></span><ul class="toc-item"><li><span><a href="#Конверсия" data-toc-modified-id="Конверсия-5.1"><span class="toc-item-num">5.1&nbsp;&nbsp;</span>Конверсия</a></span></li><li><span><a href="#Относительное-изменение-кумулятивной-конверсии" data-toc-modified-id="Относительное-изменение-кумулятивной-конверсии-5.2"><span class="toc-item-num">5.2&nbsp;&nbsp;</span>Относительное изменение кумулятивной конверсии</a></span></li><li><span><a href="#Статистическая-разница-долей" data-toc-modified-id="Статистическая-разница-долей-5.3"><span class="toc-item-num">5.3&nbsp;&nbsp;</span>Статистическая разница долей</a></span></li></ul></li><li><span><a href="#Общий-вывод" data-toc-modified-id="Общий-вывод-6"><span class="toc-item-num">6&nbsp;&nbsp;</span>Общий вывод</a></span></li></ul></div>
