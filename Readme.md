@@ -28,8 +28,3 @@ ____
 |<p>[Анализ причин оттока и сегментация клиентов  банка](https://github.com/Ekaterina-Burdakova/analytics-course/tree/master/Segmentation)</p><p>[**просмотр в HTML**](https://htmlpreview.github.io/?https://github.com/Ekaterina-Burdakova/analytics-course/blob/master/Segmentation/Segmentation.html)</p><p>[**Презентация итогов исследования**](https://github.com/Ekaterina-Burdakova/analytics-course/blob/master/Segmentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf)</p><p>[**Dashboard**](https://public.tableau.com/app/profile/kate3282/viz/_16578862411790/Dashboard1?publish=yes)</p><p>[**просмотр в PDF**](https://github.com/Ekaterina-Burdakova/analytics-course/blob/master/Segmentation/Segmentation.pdf)</p><p>[**просмотр в IPYNB**](https://github.com/Ekaterina-Burdakova/analytics-course/blob/master/Segmentation/Segmentation.ipynb)</p>|<p>**Python**</p><p>**Pandas**</p><p>**Scikit-learn**</p><p>**Matplotlib**</p><p>**Seaborn**</p><p>**phik**</p><p>**машинное обучение**</p><p>**сегментация**</p><p>**кластеризация**</p><p>**Tableau**</p>|На основе данных о клиентах банка составить "портрет" клиента склонного к оттоку. Провести сегментацию клиентов банка и сформулировать предложения активностей, приенение которых к целевым сегментом  сократить отток. |<p>В данном проекте постороены и визулизированы ключевые метрики в разрезе оттока. Проведен корреляционный анализ, проведена кластризация (KMeams) и сегментация клиентов. Выделены сегменты склонные к оттоку, сформулированы рекомендации по работе с ними.</p><p>Построен дашбоард с распределение заработной платы клиентов</p>|<p>data analyst, аналитик данных, data scientist,</p><p>KMeans, Machine Learning, дендрограмма,</p><p>Сегментация</p><p>BI, Tableau</p>|
 
 
-
-
-
-
-
